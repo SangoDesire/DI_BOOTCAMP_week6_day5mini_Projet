@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25885d38-7bf4-4525-8a03-f34ff7cd627e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXP" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/css/brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/css/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/css/solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/css/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/webfonts/fa-v4compatibility.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/assets/font-awesome/webfonts/fa-v4compatibility.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day2/ExerciceXPGOLD/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day3/DailyChallenge2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/day3/DailyChallenge2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/day3/DailyChallenge2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week1/day3/DailyChallenge2/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LHBmdQfEo8mlQi5jWfaFPd7TD6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25885d38-7bf4-4525-8a03-f34ff7cd627e" name="Changes" comment="" />
+      <created>1675518288061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675518288061</updated>
+      <workItem from="1675518289197" duration="179000" />
+      <workItem from="1675613828268" duration="2527000" />
+      <workItem from="1675616532959" duration="5271000" />
+      <workItem from="1675672257427" duration="16000" />
+      <workItem from="1675685548307" duration="424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
